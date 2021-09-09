@@ -1,26 +1,24 @@
 # Compass Database - Expert system for GPs/Pharmacists
 ### Drug-drug interactions, Drug-disease interactions, Drug-gene interactions and more
-compassmedicine.com domain hosted on VPS
+<b>compassmedicine.com domain hosted on VPS</b>
 ![Website](/Screenshots/01.jpg)
-
-Secure Login
 ![Secure Login](/Screenshots/02.jpg)
 
-Welcome Screen
+<b>Welcome Screen</b>
 ![Welcome Screen](/Screenshots/03.jpg)
 
-Example Client - Summary and Tabs
+<b>Example Client - Summary and Tabs</b>
 ![Example Client](/Screenshots/04.jpg)
 
-Client History Tab
+<b>Client History Tab</b>
 ![Client History](/Screenshots/05.jpg)
 
-Drug Detail Tab
+<b>Drug Detail Tab</b>
 ![Drug Detail Tab](/Screenshots/06.jpg)
 
-Disease Detail Tab
+<b>Disease Detail Tab</b>
 ![Disease Detail Tab](/Screenshots/07.jpg)
 
-MySQL Database Design
+<b>MySQL Database Design</b>
 ![MySQL Database Design](/Screenshots/10.jpg)
 
