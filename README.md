@@ -1,7 +1,7 @@
 # Compass Database - Expert system for GPs/Pharmacists
 ### Drug-drug interactions, Drug-disease interactions, Drug-gene interactions and more
-#### Built in MySQL/PHP/Javascript/CSS
-#### Content API/Scraping collection and cleaning via Python ETL tools
+#### - Built in MySQL/PHP/Javascript/CSS
+#### - Content API/Scraping collection and cleaning via Python ETL tools
 <br>
 <br>
 <b>compassmedicine.com domain hosted on VPS</b>
