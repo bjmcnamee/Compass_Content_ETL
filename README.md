@@ -2,6 +2,7 @@
 ### Drug-drug interactions, Drug-disease interactions, Drug-gene interactions and more
 #### - Application built in MySQL/PHP/Javascript/CSS
 #### - Content API/Scraping collection and cleaning via Python ETL tools
+#### - 561K+ drug-drug interactions, 766 drugs
 ####
 ####
 <b>compassmedicine.com domain hosted on VPS</b>
