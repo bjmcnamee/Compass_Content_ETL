@@ -764,4 +764,3 @@
 "Zolpidem","Zolpidem","zolpidem","39993","DB00425","N05CF02"
 "Zopiclone","Zopiclone","zopiclone","40001","DB01198","N05CF01"
 "Zuclopenthixol","Zuclopenthixol","zuclopenthixol","114176","DB01624","N05AF05"
-"Zuclopenthixol","Zuclopenthixol","zuclopenthixol","114176","DB01624","N05AF05"
