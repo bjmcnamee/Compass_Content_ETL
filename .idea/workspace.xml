@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a883e859-300b-4c1a-a8cf-342b2d6311e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Scraping_and_ETL.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Scraping_and_ETL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Compass_Database.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
@@ -37,6 +39,7 @@
       <updated>1631188385760</updated>
       <workItem from="1631188396662" duration="27000" />
       <workItem from="1631189958810" duration="14000" />
+      <workItem from="1631190033323" duration="4000" />
     </task>
     <servers />
   </component>
