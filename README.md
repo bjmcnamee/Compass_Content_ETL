@@ -6,23 +6,29 @@
 - 561K+ drug-drug interactions, 766 drugs
 ####
 ####
-#### 0__CleanDrugs.py - clean drug names
+#### 0__CleanDrugs.py 
+- clean drug names
 
-#### 1__GetAPI_NLM_Codes.py - API fetch various catalogue codes via API from National Library of Medicine <a href="https://mor.nlm.nih.gov/RxNav/">RxNav app</a>
-- codes include : ATC, DRUGBANK, RxCUI, SPL_SET_ID
-- requests lib
+#### 1__GetAPI_NLM_Codes.py 
+- API fetch various catalogue codes : ATC, DRUGBANK, RxCUI, SPL_SET_ID
+- from National Library of Medicine <a href="https://mor.nlm.nih.gov/RxNav/">RxNav app</a>
+- lib requests
 
 #### 2__GetSPLs_FuzzyMatch.py
-- API fetch all SPL_SET_ID for each drug and find best match using fuzzy match
-- lib Levenshtein
+- API fetch all SPL_SET_ID for each drug
+- scrape/parse drug title for each SPL_SET_ID from <a href="https://dailymed.nlm.nih.gov/dailymed/">DailyMed website</a> 
+- find best match using fuzzy match
+- lib requests, Levenshtein, BeautifulSoup
 
 #### 3__ScrapeDailyMeds.py
-- scrape and parse drug profile from <a href="https://dailymed.nlm.nih.gov/dailymed/">DailyMed website</a> for each drug
-- lib urllib.request and BeautifulSoup
+- scrape/parse drug profile from <a href="https://dailymed.nlm.nih.gov/dailymed/">DailyMed website</a> for each drug
+- lib urllib.request, BeautifulSoup
 
 #### 4__ScrapeDrugbank.py
-- scrape and parse drug profile from <a href="https://go.drugbank.com/drugs">Drugbank website</a> for each drug
+- scrape/parse drug profile from <a href="https://go.drugbank.com/drugs">Drugbank website</a> for each drug
 - lib cfscrape and BeautifulSoup
 
 #### 5__GetAPI_NLM_Interaction.py
- - API fetch (requests lib) various catalogue codes via API from National Library of Medicine <a href="https://mor.nlm.nih.gov/RxNav/">RxNav app</a>
+- API fetch all drug-drug interactions for each drug 
+- from National Library of Medicine <a href="https://mor.nlm.nih.gov/RxNav/">RxNav app</a>
+- lib requests
