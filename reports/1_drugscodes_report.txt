@@ -1,0 +1,796 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX Found XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Abacavir  -  Rx: 190521 Drugbank: DB01048 ATC: J05AF06
+Abiraterone  -  Rx: 1100072 Drugbank: DB05812 ATC: L02BX03
+Acarbose  -  Rx: 16681 Drugbank: DB00284 ATC: A10BF01
+Acenocoumarol  -  Rx: 154 Drugbank: DB01418 ATC: B01AA07
+Acetazolamide  -  Rx: 167 Drugbank: DB00819 ATC: S01EC01
+Acetic acid  -  Rx: 168 Drugbank: DB03166 ATC: G01AD02
+Acetylcysteine  -  Rx: 197 Drugbank: DB06151 ATC: R05CB01
+Acetylsalicylic acid  -  Rx: 1191 Drugbank: DB00945 ATC: A01AD05
+Aciclovir  -  Rx: 281 Drugbank: DB00787 ATC: D06BB03
+Aclidinium  -  Rx: 1303098 Drugbank: DB08897 ATC: NA
+Aclidinium/Formoterol  -  Rx: 2205093 Drugbank: NA ATC: NA
+Activated charcoal  -  Rx: 272 Drugbank: DB09278 ATC: A07BA01
+Adalimumab  -  Rx: 327361 Drugbank: DB00051 ATC: L04AB04
+Afatinib  -  Rx: 1430438 Drugbank: DB08916 ATC: L01EB03
+Albendazole  -  Rx: 430 Drugbank: DB00518 ATC: P02CA03
+Alclometasone  -  Rx: 108088 Drugbank: DB00240 ATC: D07AB10
+Alcuronium  -  Rx: 460 Drugbank: NA ATC: M03AA01
+Alendronic acid  -  Rx: 236083 Drugbank: DB00630 ATC: M05BA04
+Alfacalcidol  -  Rx: 12062 Drugbank: DB01436 ATC: A11CC03
+Alfuzosin  -  Rx: 17300 Drugbank: DB00346 ATC: G04CA01
+Alimemazine  -  Rx: 10825 Drugbank: DB01246 ATC: R06AD01
+Aliskiren  -  Rx: 325646 Drugbank: DB09026 ATC: C09XA02
+Allopurinol  -  Rx: 519 Drugbank: DB00437 ATC: M04AA01
+Alprazolam  -  Rx: 596 Drugbank: DB00404 ATC: N05BA12
+Alteplase  -  Rx: 8410 Drugbank: DB00009 ATC: B01AD02
+Alverine citrate  -  Rx: 71767 Drugbank: NA ATC: NA
+Amidotrizoate  -  Rx: 3319 Drugbank: DB00271 ATC: NA
+Amikacin  -  Rx: 641 Drugbank: DB00479 ATC: D06AX12
+Amiloride  -  Rx: 644 Drugbank: DB00594 ATC: C03DB01
+Amiloride/Hydrochlorothiazide  -  Rx: 214212 Drugbank: NA ATC: NA
+Aminophylline  -  Rx: 689 Drugbank: DB01223 ATC: R03DA05
+Amiodarone  -  Rx: 703 Drugbank: DB01118 ATC: C01BD01
+Amitriptyline  -  Rx: 704 Drugbank: DB00321 ATC: N06AA09
+Amlodipine  -  Rx: 17767 Drugbank: DB00381 ATC: C08CA01
+Amlodipine/Telmisartan  -  Rx: 901212 Drugbank: NA ATC: C09DB04
+Amlodipine/Valsartan  -  Rx: 729455 Drugbank: NA ATC: C09DB01
+Amodiaquine  -  Rx: 720 Drugbank: DB00613 ATC: P01BA06
+Amorolfine  -  Rx: 17804 Drugbank: DB09056 ATC: D01AE16
+Amoxicillin  -  Rx: 723 Drugbank: DB01060 ATC: J01CA04
+Amphetamine  -  Rx: 725 Drugbank: DB00182 ATC: N06BA01
+Amphotericin b  -  Rx: 732 Drugbank: DB00681 ATC: A01AB04
+Ampicillin  -  Rx: 733 Drugbank: DB00415 ATC: J01CA01
+Anagrelide  -  Rx: 596724 Drugbank: DB00261 ATC: L01XX35
+Anastrozole  -  Rx: 84857 Drugbank: DB01217 ATC: L02BG03
+Anti-d immunoglobulin  -  Rx: 35465 Drugbank: DB11597 ATC: J06BB01
+Apixaban  -  Rx: 1364430 Drugbank: DB06605 ATC: B01AF02
+Apraclonidine  -  Rx: 14845 Drugbank: DB00964 ATC: S01EA03
+Aprepitant  -  Rx: 358255 Drugbank: DB00673 ATC: A04AD12
+Aripiprazole  -  Rx: 89013 Drugbank: DB01238 ATC: N05AX12
+Arsenic trioxide  -  Rx: 18330 Drugbank: DB01169 ATC: L01XX27
+Artemether  -  Rx: 18343 Drugbank: DB06697 ATC: P01BE02
+Artesunate  -  Rx: 18346 Drugbank: DB09274 ATC: P01BE03
+Ascorbic acid  -  Rx: 1151 Drugbank: DB00126 ATC: A11GA01
+Asparaginase  -  Rx: 1156 Drugbank: DB00023 ATC: L01XX02
+Atazanavir  -  Rx: 343047 Drugbank: DB01072 ATC: J05AE08
+Atenolol  -  Rx: 1202 Drugbank: DB00335 ATC: C07AB03
+Atenolol/Chlorthalidone  -  Rx: 151195 Drugbank: NA ATC: NA
+Atezolizumab  -  Rx: 1792776 Drugbank: DB11595 ATC: L01XC32
+Atomoxetine  -  Rx: 38400 Drugbank: DB00289 ATC: N06BA09
+Atorvastatin  -  Rx: 83367 Drugbank: DB01076 ATC: C10AA05
+Atovaquone/Proguanil  -  Rx: 284623 Drugbank: NA ATC: NA
+Atracurium  -  Rx: 1218 Drugbank: DB13295 ATC: M03AC04
+Atropine  -  Rx: 1223 Drugbank: DB00572 ATC: A03BA01
+Azathioprine  -  Rx: 1256 Drugbank: DB00993 ATC: L04AX01
+Azelastine/Fluticasone  -  Rx: 1291859 Drugbank: NA ATC: NA
+Azilsartan  -  Rx: 1091643 Drugbank: DB08822 ATC: NA
+Azithromycin  -  Rx: 18631 Drugbank: DB00207 ATC: J01FA10
+Aztreonam  -  Rx: 1272 Drugbank: DB00355 ATC: J01DF01
+Baclofen  -  Rx: 1292 Drugbank: DB00181 ATC: M03BX01
+Barium sulfate  -  Rx: 1331 Drugbank: DB11150 ATC: NA
+Beclometasone  -  Rx: 1347 Drugbank: NA ATC: A07EA07
+Bedaquiline  -  Rx: 1364504 Drugbank: DB08903 ATC: J04AK05
+Benazepril  -  Rx: 18867 Drugbank: DB00542 ATC: C09AA07
+Bendamustine  -  Rx: 134547 Drugbank: DB06769 ATC: L01AA09
+Bendroflumethiazide  -  Rx: 1369 Drugbank: DB00436 ATC: C03AA01
+Bendroflumethiazide/Potassium chloride  -  Rx: 690057 Drugbank: NA ATC: NA
+Benzathine benzylpenicillin  -  Rx: 7982 Drugbank: NA ATC: J01CE08
+Benznidazole  -  Rx: 18994 Drugbank: DB11989 ATC: P01CA02
+Benzoyl peroxide  -  Rx: 1418 Drugbank: DB09096 ATC: D10AE01
+Benzyl benzoate  -  Rx: 19044 Drugbank: DB00676 ATC: P03AX01
+Benzylpenicillin  -  Rx: 7980 Drugbank: DB01053 ATC: J01CE01
+Betamethasone  -  Rx: 1514 Drugbank: DB00443 ATC: A07EA04
+Betaxolol  -  Rx: 1520 Drugbank: DB00195 ATC: C07AB05
+Bevacizumab  -  Rx: 253337 Drugbank: DB00112 ATC: L01XC07
+Bicalutamide  -  Rx: 83008 Drugbank: DB01128 ATC: L02BB03
+Biperiden  -  Rx: 1589 Drugbank: DB00810 ATC: N04AA02
+Bisoprolol  -  Rx: 19484 Drugbank: DB00612 ATC: C07AB07
+Bleomycin  -  Rx: 1622 Drugbank: DB00290 ATC: L01DC01
+Bortezomib  -  Rx: 358258 Drugbank: DB00188 ATC: L01XG01
+Bosutinib  -  Rx: 1307619 Drugbank: DB06616 ATC: L01EA04
+Brexpiprazole  -  Rx: 1658314 Drugbank: DB09128 ATC: N05AX16
+Brinzolamide  -  Rx: 194881 Drugbank: DB01194 ATC: S01EC04
+Brivaracetam  -  Rx: 1739745 Drugbank: DB05541 ATC: N03AX23
+Bromazepam  -  Rx: 1749 Drugbank: DB01558 ATC: N05BA08
+Bromocriptine  -  Rx: 1760 Drugbank: DB01200 ATC: G02CB01
+Budesonide  -  Rx: 19831 Drugbank: DB01222 ATC: A07EA06
+Budesonide/Formoterol  -  Rx: 389132 Drugbank: NA ATC: R03AK07
+Bumetanide  -  Rx: 1808 Drugbank: DB00887 ATC: C03CA02
+Bupivacaine  -  Rx: 1815 Drugbank: DB00297 ATC: N01BB01
+Buprenorphine  -  Rx: 1819 Drugbank: DB00921 ATC: N02AE01
+Bupropion  -  Rx: 42347 Drugbank: DB01156 ATC: N06AX12
+C1 esterase inhibitor  -  Rx: 1599832 Drugbank: DB06404 ATC: NA
+Cabergoline  -  Rx: 47579 Drugbank: DB00248 ATC: G02CB03
+Caffeine citrate  -  Rx: 20033 Drugbank: NA ATC: NA
+Calamine  -  Rx: 106212 Drugbank: NA ATC: NA
+Calcium  -  Rx: 1895 Drugbank: DB01373 ATC: NA
+Calcium folinate  -  Rx: 225852 Drugbank: NA ATC: V03AF03
+Calcium gluconate  -  Rx: 1908 Drugbank: DB11126 ATC: A12AA03
+Candesartan  -  Rx: 214354 Drugbank: NA ATC: C09CA06
+Candesartan/Hydrochlorothiazide  -  Rx: 284628 Drugbank: NA ATC: NA
+Capecitabine  -  Rx: 194000 Drugbank: DB01101 ATC: L01BC06
+Capreomycin  -  Rx: 78903 Drugbank: DB00314 ATC: J04AB30
+Capsaicin  -  Rx: 1992 Drugbank: DB06774 ATC: M02AB01
+Captopril  -  Rx: 1998 Drugbank: DB01197 ATC: C09AA01
+Captopril/Hydrochlorothiazide  -  Rx: 214357 Drugbank: NA ATC: NA
+Carbamazepine  -  Rx: 2002 Drugbank: DB00564 ATC: N03AF01
+Carbimazole  -  Rx: 2020 Drugbank: DB00389 ATC: H03BB01
+Carbocisteine  -  Rx: 2023 Drugbank: DB04339 ATC: R05CB03
+Carbomer  -  Rx: 235535 Drugbank: NA ATC: NA
+Carboplatin  -  Rx: 40048 Drugbank: DB00958 ATC: L01XA02
+Carmellose sodium  -  Rx: 491498 Drugbank: DB11059 ATC: NA
+Carvedilol  -  Rx: 20352 Drugbank: DB01136 ATC: C07AG02
+Cefaclor  -  Rx: 2176 Drugbank: DB00833 ATC: J01DC04
+Cefalexin  -  Rx: 2231 Drugbank: DB00567 ATC: J01DB01
+Cefazolin  -  Rx: 2180 Drugbank: DB01327 ATC: J01DB04
+Cefepime  -  Rx: 20481 Drugbank: DB01413 ATC: J01DE01
+Cefixime  -  Rx: 25033 Drugbank: DB00671 ATC: J01DD08
+Cefotaxime  -  Rx: 2186 Drugbank: DB00493 ATC: J01DD01
+Ceftaroline  -  Rx: 1040005 Drugbank: DB06590 ATC: NA
+Ceftazidime  -  Rx: 2191 Drugbank: DB00438 ATC: J01DD02
+Ceftriaxone  -  Rx: 2193 Drugbank: DB01212 ATC: J01DD04
+Cefuroxime  -  Rx: 2194 Drugbank: DB01112 ATC: J01DC02
+Celecoxib  -  Rx: 140587 Drugbank: DB00482 ATC: L01XX33
+Celiprolol  -  Rx: 20498 Drugbank: DB04846 ATC: C07AB08
+Certolizumab pegol  -  Rx: 709271 Drugbank: DB08904 ATC: L04AB05
+Chlorambucil  -  Rx: 2346 Drugbank: DB00291 ATC: L01AA02
+Chloramphenicol  -  Rx: 2348 Drugbank: DB00446 ATC: D06AX02
+Chlordiazepoxide  -  Rx: 2356 Drugbank: DB00475 ATC: N05BA02
+Chlorhexidine  -  Rx: 2358 Drugbank: DB00878 ATC: A01AB03
+Chlorine  -  Rx: 1310122 Drugbank: NA ATC: NA
+Chloroquine  -  Rx: 2393 Drugbank: DB00608 ATC: P01BA01
+Chloroxylenol  -  Rx: 20877 Drugbank: DB11121 ATC: D08AE05
+Chlorphenamine  -  Rx: 2400 Drugbank: DB01114 ATC: R06AB04
+Chlorpromazine  -  Rx: 2403 Drugbank: DB00477 ATC: N05AA01
+Ciclosporin  -  Rx: 3008 Drugbank: DB00091 ATC: L04AD01
+Cilazapril  -  Rx: 21102 Drugbank: DB01340 ATC: C09AA08
+Cilostazol  -  Rx: 21107 Drugbank: DB01166 ATC: B01AC23
+Cimetidine  -  Rx: 2541 Drugbank: DB00501 ATC: A02BA01
+Cinnarizine  -  Rx: 2549 Drugbank: DB00568 ATC: N07CA02
+Ciprofloxacin  -  Rx: 2551 Drugbank: DB00537 ATC: J01MA02
+Cisplatin  -  Rx: 2555 Drugbank: DB00515 ATC: L01XA01
+Citalopram  -  Rx: 2556 Drugbank: DB00215 ATC: N06AB04
+Clarithromycin  -  Rx: 21212 Drugbank: DB01211 ATC: J01FA09
+Clindamycin  -  Rx: 2582 Drugbank: DB01190 ATC: D10AF01
+Clobazam  -  Rx: 21241 Drugbank: DB00349 ATC: N05BA09
+Clobetasone  -  Rx: 108074 Drugbank: DB13158 ATC: D07AB01
+Clofazimine  -  Rx: 2592 Drugbank: DB00845 ATC: J04BA01
+Clomifene  -  Rx: 2596 Drugbank: DB00882 ATC: G03GB02
+Clomipramine  -  Rx: 2597 Drugbank: DB01242 ATC: N06AA04
+Clonazepam  -  Rx: 2598 Drugbank: DB01068 ATC: N03AE01
+Clonidine  -  Rx: 2599 Drugbank: DB00575 ATC: C02AC01
+Clopidogrel  -  Rx: 32968 Drugbank: DB00758 ATC: B01AC04
+Clotrimazole  -  Rx: 2623 Drugbank: DB00257 ATC: A01AB18
+Cloxacillin  -  Rx: 2625 Drugbank: DB01147 ATC: J01CF02
+Clozapine  -  Rx: 2626 Drugbank: DB00363 ATC: N05AH02
+Coagulation factor ix (recombinant)  -  Rx: 1300488 Drugbank: DB00100 ATC: NA
+Coagulation factor viii  -  Rx: 4257 Drugbank: NA ATC: B02BD02
+Coal tar  -  Rx: 2635 Drugbank: DB11082 ATC: NA
+Cobalamin  -  Rx: 42604 Drugbank: NA ATC: NA
+Codeine  -  Rx: 2670 Drugbank: DB00318 ATC: R05DA04
+Colchicine  -  Rx: 2683 Drugbank: DB01394 ATC: M04AC01
+Colecalciferol  -  Rx: 2418 Drugbank: DB00169 ATC: A11CC05
+Colesevelam  -  Rx: 141626 Drugbank: DB00930 ATC: C10AC04
+Colestyramine  -  Rx: 2447 Drugbank: DB01432 ATC: C10AC01
+Colistimethate  -  Rx: 2708 Drugbank: DB01111 ATC: NA
+Colistin  -  Rx: 2709 Drugbank: DB00803 ATC: A07AA10
+Conjugated estrogens  -  Rx: 4099 Drugbank: DB00286 ATC: G03CA57
+Crizotinib  -  Rx: 1148495 Drugbank: DB08865 ATC: L01ED01
+Cyanocobalamin  -  Rx: 11248 Drugbank: DB00115 ATC: B03BA01
+Cyclizine  -  Rx: 2977 Drugbank: DB01176 ATC: R06AE03
+Cyclophosphamide  -  Rx: 3002 Drugbank: DB00531 ATC: L01AA01
+Cycloserine  -  Rx: 3007 Drugbank: DB00260 ATC: J04AB01
+Cyproterone  -  Rx: 3014 Drugbank: NA ATC: G03HA01
+Cytarabine  -  Rx: 3041 Drugbank: DB00987 ATC: L01BC01
+Dabigatran  -  Rx: 1546356 Drugbank: DB14726 ATC: NA
+Dacarbazine  -  Rx: 3098 Drugbank: DB00851 ATC: L01AX04
+Daclatasvir  -  Rx: 1606218 Drugbank: DB09102 ATC: J05AP07
+Dactinomycin  -  Rx: 3100 Drugbank: DB00970 ATC: L01DA01
+Dalteparin  -  Rx: 67109 Drugbank: DB06779 ATC: B01AB04
+Dapagliflozin  -  Rx: 1488564 Drugbank: DB06292 ATC: A10BK01
+Dapsone  -  Rx: 3108 Drugbank: DB00250 ATC: D10AX05
+Daptomycin  -  Rx: 22299 Drugbank: DB00080 ATC: J01XX09
+Darbepoetin alfa  -  Rx: 283838 Drugbank: DB00012 ATC: B03XA02
+Darifenacin  -  Rx: 136198 Drugbank: DB00496 ATC: G04BD10
+Darunavir  -  Rx: 460132 Drugbank: DB01264 ATC: J05AE10
+Dasabuvir  -  Rx: 1597381 Drugbank: DB09183 ATC: J05AP09
+Dasatinib  -  Rx: 475342 Drugbank: DB01254 ATC: L01EA02
+Daunorubicin  -  Rx: 3109 Drugbank: DB00694 ATC: L01DB02
+Deferoxamine  -  Rx: 3131 Drugbank: DB00746 ATC: V03AC01
+Delafloxacin  -  Rx: 1927663 Drugbank: DB11943 ATC: J01MA23
+Denosumab  -  Rx: 993449 Drugbank: DB06643 ATC: M05BX04
+Desipramine  -  Rx: 3247 Drugbank: DB01151 ATC: N06AA01
+Desloratadine  -  Rx: 275635 Drugbank: DB00967 ATC: R06AX27
+Desmopressin  -  Rx: 3251 Drugbank: DB00035 ATC: H01BA02
+Dexamethasone  -  Rx: 3264 Drugbank: DB01234 ATC: A01AC02
+Dexlansoprazole  -  Rx: 816346 Drugbank: DB05351 ATC: A02BC06
+Dextran 40  -  Rx: 3272 Drugbank: NA ATC: NA
+Diazepam  -  Rx: 3322 Drugbank: DB00829 ATC: N05BA01
+Diazoxide  -  Rx: 3327 Drugbank: DB01119 ATC: C02DA01
+Diclofenac  -  Rx: 3355 Drugbank: DB00586 ATC: D11AX18
+Diclofenac/Misoprostol  -  Rx: 214502 Drugbank: NA ATC: NA
+Didanosine  -  Rx: 3364 Drugbank: DB00900 ATC: J05AF02
+Diethylcarbamazine  -  Rx: 3384 Drugbank: DB00711 ATC: P02CB02
+Digitoxin  -  Rx: 3403 Drugbank: DB01396 ATC: C01AA04
+Digoxin  -  Rx: 3407 Drugbank: DB00390 ATC: C01AA05
+Dihydrocodeine  -  Rx: 23088 Drugbank: DB01551 ATC: N02AA08
+Dihydroergocryptine mesylate  -  Rx: 42646 Drugbank: NA ATC: N04BC03
+Diloxanide  -  Rx: 67182 Drugbank: NA ATC: P01AC01
+Dimercaprol  -  Rx: 3445 Drugbank: DB06782 ATC: V03AB09
+Diphtheria antitoxin  -  Rx: 3510 Drugbank: NA ATC: J06AA01
+Diphtheria vaccine  -  Rx: 798304 Drugbank: DB09877 ATC: J07AF
+Dipyridamole  -  Rx: 3521 Drugbank: DB00975 ATC: B01AC07
+Docetaxel  -  Rx: 72962 Drugbank: DB01248 ATC: L01CD02
+Docusate sodium  -  Rx: 71722 Drugbank: NA ATC: A06AA02
+Dolutegravir  -  Rx: 1433868 Drugbank: DB08930 ATC: J05AJ03
+Domperidone  -  Rx: 3626 Drugbank: DB01184 ATC: A03FA03
+Donepezil  -  Rx: 135447 Drugbank: DB00843 ATC: N06DA02
+Dopamine  -  Rx: 3628 Drugbank: DB00988 ATC: C01CA04
+Dorzolamide/Timolol  -  Rx: 662263 Drugbank: NA ATC: NA
+Dosulepin  -  Rx: 3634 Drugbank: DB09167 ATC: N06AA16
+Doxazosin  -  Rx: 49276 Drugbank: DB00590 ATC: C02CA04
+Doxepin  -  Rx: 3638 Drugbank: DB01142 ATC: D04AX01
+Doxorubicin  -  Rx: 3639 Drugbank: DB00997 ATC: L01DB01
+Doxycycline  -  Rx: 3640 Drugbank: DB00254 ATC: A01AB22
+Dronabinol  -  Rx: 10402 Drugbank: DB00470 ATC: A04AD10
+Dronedarone  -  Rx: 233698 Drugbank: DB04855 ATC: C01BD07
+Dulaglutide  -  Rx: 1551291 Drugbank: DB09045 ATC: A10BJ05
+Duloxetine  -  Rx: 72625 Drugbank: DB00476 ATC: N06AX21
+Dutasteride  -  Rx: 228790 Drugbank: DB01126 ATC: G04CB02
+Dutasteride/Tamsulosin  -  Rx: 1001472 Drugbank: NA ATC: G04CA52
+Edoxaban  -  Rx: 1599538 Drugbank: DB09075 ATC: B01AF03
+Efavirenz  -  Rx: 195085 Drugbank: DB00625 ATC: J05AG03
+Eflornithine  -  Rx: 569 Drugbank: DB06243 ATC: D11AX16
+Empagliflozin  -  Rx: 1545653 Drugbank: DB09038 ATC: A10BK03
+Emtricitabine  -  Rx: 276237 Drugbank: DB00879 ATC: J05AF09
+Enalapril  -  Rx: 3827 Drugbank: DB00584 ATC: C09AA02
+Enalapril/Hydrochlorothiazide  -  Rx: 214536 Drugbank: NA ATC: NA
+Enoxaparin  -  Rx: 67108 Drugbank: DB01225 ATC: B01AB05
+Entecavir  -  Rx: 306266 Drugbank: DB00442 ATC: J05AF10
+Enzalutamide  -  Rx: 1307298 Drugbank: DB08899 ATC: L02BB04
+Ephedrine  -  Rx: 3966 Drugbank: DB01364 ATC: C01CA26
+Epinephrine  -  Rx: 3992 Drugbank: DB00668 ATC: A01AD01
+Eplerenone  -  Rx: 298869 Drugbank: DB00700 ATC: C03DA04
+Epoetin alfa  -  Rx: 105694 Drugbank: DB00016 ATC: NA
+Epoetin beta  -  Rx: 105695 Drugbank: DB00016 ATC: NA
+Eprosartan  -  Rx: 83515 Drugbank: DB00876 ATC: C09CA02
+Eprosartan/Hydrochlorothiazide  -  Rx: 352375 Drugbank: NA ATC: NA
+Eravacycline  -  Rx: 2055906 Drugbank: DB12329 ATC: J01AA13
+Ergocalciferol  -  Rx: 4018 Drugbank: DB00153 ATC: A11CC01
+Ergometrine  -  Rx: 4021 Drugbank: DB01253 ATC: G02AB03
+Erlotinib  -  Rx: 337525 Drugbank: DB00530 ATC: L01EB02
+Erythromycin  -  Rx: 4053 Drugbank: DB00199 ATC: D10AF02
+Escitalopram  -  Rx: 321988 Drugbank: DB01175 ATC: N06AB10
+Esomeprazole  -  Rx: 283742 Drugbank: DB00736 ATC: A02BC05
+Estradiol  -  Rx: 4083 Drugbank: DB00783 ATC: G03CA03
+Estriol  -  Rx: 4094 Drugbank: DB04573 ATC: G03CA04
+Etanercept  -  Rx: 214555 Drugbank: DB00005 ATC: L04AB01
+Ethambutol  -  Rx: 4110 Drugbank: DB00330 ATC: J04AK02
+Ethanol  -  Rx: 448 Drugbank: DB00898 ATC: D08AX08
+Ether  -  Rx: 1363043 Drugbank: NA ATC: N01AA01
+Ethionamide  -  Rx: 4127 Drugbank: DB00609 ATC: J04AD03
+Ethosuximide  -  Rx: 4135 Drugbank: DB00593 ATC: N03AD01
+Etofenamate  -  Rx: 24608 Drugbank: NA ATC: M02AA06
+Etoposide  -  Rx: 4179 Drugbank: DB00773 ATC: L01CB01
+Etoricoxib  -  Rx: 307296 Drugbank: DB01628 ATC: M01AH05
+Exenatide  -  Rx: 60548 Drugbank: DB01276 ATC: A10BJ01
+Ezetimibe  -  Rx: 341248 Drugbank: DB00973 ATC: C10AX09
+Ezetimibe/Simvastatin  -  Rx: 484211 Drugbank: NA ATC: C10BA02
+Famciclovir  -  Rx: 68099 Drugbank: DB00426 ATC: J05AB09
+Febuxostat  -  Rx: 73689 Drugbank: DB04854 ATC: M04AA03
+Felodipine  -  Rx: 4316 Drugbank: DB01023 ATC: C08CA02
+Fenofibrate  -  Rx: 8703 Drugbank: DB01039 ATC: C10AB05
+Fentanyl  -  Rx: 4337 Drugbank: DB00813 ATC: N01AH01
+Ferrous fumarate  -  Rx: 24941 Drugbank: DB14491 ATC: B03AA02
+Fesoterodine  -  Rx: 797195 Drugbank: DB06702 ATC: G04BD11
+Fexofenadine  -  Rx: 87636 Drugbank: DB00950 ATC: R06AX26
+Filgrastim  -  Rx: 68442 Drugbank: DB00099 ATC: L03AA02
+Finasteride  -  Rx: 25025 Drugbank: DB01216 ATC: D11AX10
+Fingolimod  -  Rx: 1012892 Drugbank: DB08868 ATC: L04AA27
+Flecainide  -  Rx: 4441 Drugbank: DB01195 ATC: C01BC04
+Flucloxacillin  -  Rx: 4448 Drugbank: DB00301 ATC: J01CF05
+Fluconazole  -  Rx: 4450 Drugbank: DB00196 ATC: D01AC15
+Flucytosine  -  Rx: 4451 Drugbank: DB01099 ATC: D01AE21
+Fludarabine  -  Rx: 24698 Drugbank: DB01073 ATC: L01BB05
+Fludrocortisone  -  Rx: 4452 Drugbank: DB00687 ATC: H02AA02
+Fluorescein  -  Rx: 25138 Drugbank: DB00693 ATC: S01JA01
+Fluorouracil  -  Rx: 4492 Drugbank: DB00544 ATC: L01BC02
+Fluoxetine  -  Rx: 4493 Drugbank: DB00472 ATC: N06AB03
+Fluphenazine  -  Rx: 4496 Drugbank: DB00623 ATC: N05AB02
+Flurazepam  -  Rx: 4501 Drugbank: DB00690 ATC: N05CD01
+Flurbiprofen  -  Rx: 4502 Drugbank: DB00712 ATC: M01AE09
+Fluticasone  -  Rx: 41126 Drugbank: DB13867 ATC: D07AC17
+Fluticasone/Vilanterol  -  Rx: 1424888 Drugbank: NA ATC: NA
+Fluvastatin  -  Rx: 41127 Drugbank: DB01095 ATC: C10AA04
+Fluvoxamine  -  Rx: 42355 Drugbank: DB00176 ATC: N06AB08
+Folic acid  -  Rx: 4511 Drugbank: DB00158 ATC: B03BB01
+Fomepizole  -  Rx: 15226 Drugbank: DB01213 ATC: V03AB34
+Fosfomycin  -  Rx: 4550 Drugbank: DB00828 ATC: J01XX01
+Fosphenytoin  -  Rx: 72236 Drugbank: DB01320 ATC: N03AB05
+Furosemide  -  Rx: 4603 Drugbank: DB00695 ATC: C03CA01
+Gabapentin  -  Rx: 25480 Drugbank: DB00996 ATC: N03AX12
+Galantamine  -  Rx: 4637 Drugbank: DB00674 ATC: N06DA04
+Gallamine  -  Rx: 4638 Drugbank: NA ATC: M03AC02
+Gatifloxacin  -  Rx: 228476 Drugbank: DB01044 ATC: J01MA16
+Gefitinib  -  Rx: 328134 Drugbank: DB00317 ATC: L01EB01
+Gemcitabine  -  Rx: 12574 Drugbank: DB00441 ATC: L01BC05
+Gemfibrozil  -  Rx: 4719 Drugbank: DB01241 ATC: C10AB04
+Gentamycin  -  Rx: 1596450 Drugbank: DB00798 ATC: D06AX07
+Glatiramer acetate  -  Rx: 84375 Drugbank: NA ATC: L03AX13
+Glibenclamide  -  Rx: 4815 Drugbank: DB01016 ATC: A10BB01
+Gliclazide  -  Rx: 4816 Drugbank: DB01120 ATC: A10BB09
+Glucagon  -  Rx: 261716 Drugbank: DB00040 ATC: NA
+Glucosamine  -  Rx: 4845 Drugbank: DB01296 ATC: M01AX05
+Glucose  -  Rx: 4850 Drugbank: DB01914 ATC: B05CX01
+Glutaral  -  Rx: 4888 Drugbank: NA ATC: NA
+Glyceryl trinitrate  -  Rx: 4917 Drugbank: DB00727 ATC: C01DA02
+Glycopyrronium  -  Rx: 1546438 Drugbank: DB00986 ATC: D11AA01
+Golimumab  -  Rx: 819300 Drugbank: DB06674 ATC: L04AB06
+Griseofulvin  -  Rx: 5021 Drugbank: DB00400 ATC: D01AA08
+Haloperidol  -  Rx: 5093 Drugbank: DB00502 ATC: N05AD01
+Halothane  -  Rx: 5095 Drugbank: DB01159 ATC: N01AB01
+Heparin sodium  -  Rx: 314659 Drugbank: NA ATC: NA
+Hepatitis b vaccine  -  Rx: 797752 Drugbank: DB11627 ATC: NA
+Homatropine  -  Rx: 27084 Drugbank: DB11181 ATC: S01FA05
+Hydralazine  -  Rx: 5470 Drugbank: DB01275 ATC: C02DB02
+Hydrochlorothiazide  -  Rx: 5487 Drugbank: DB00999 ATC: C03AA03
+Hydrocodone  -  Rx: 5489 Drugbank: DB00956 ATC: R05DA03
+Hydrocortisone  -  Rx: 5492 Drugbank: DB00741 ATC: A01AC03
+Hydromorphone  -  Rx: 3423 Drugbank: DB00327 ATC: N02AA03
+Hydroxocobalamin  -  Rx: 5514 Drugbank: DB00200 ATC: B03BA03
+Hydroxychloroquine  -  Rx: 5521 Drugbank: DB01611 ATC: P01BA02
+Hydroxyurea  -  Rx: 5552 Drugbank: DB01005 ATC: L01XX05
+Hyoscine butylbromide  -  Rx: 1851 Drugbank: NA ATC: NA
+Hyoscine hydrobromide  -  Rx: 9603 Drugbank: DB00747 ATC: NA
+Ibandronic acid  -  Rx: 115265 Drugbank: DB00710 ATC: M05BA06
+Ibuprofen  -  Rx: 5640 Drugbank: DB01050 ATC: C01EB16
+Idoxuridine  -  Rx: 5653 Drugbank: DB00249 ATC: D06BB01
+Ifosfamide  -  Rx: 5657 Drugbank: DB01181 ATC: L01AA06
+Imatinib  -  Rx: 282388 Drugbank: DB00619 ATC: L01EA01
+Imipramine  -  Rx: 5691 Drugbank: DB00458 ATC: N06AA02
+Indacaterol  -  Rx: 1114326 Drugbank: DB05039 ATC: R03AC18
+Indinavir  -  Rx: 114289 Drugbank: DB00224 ATC: J05AE02
+Indometacin  -  Rx: 5781 Drugbank: DB00328 ATC: C01EB03
+Infliximab  -  Rx: 191831 Drugbank: DB00065 ATC: L04AB02
+Insulin aspart  -  Rx: 51428 Drugbank: DB01306 ATC: A10AB05
+Insulin degludec  -  Rx: 1670007 Drugbank: DB09564 ATC: A10AE06
+Insulin detemir  -  Rx: 139825 Drugbank: DB01307 ATC: A10AE05
+Insulin glargine  -  Rx: 274783 Drugbank: DB00047 ATC: A10AE04
+Insulin glulisine  -  Rx: 400008 Drugbank: DB01309 ATC: A10AB06
+Insulin human  -  Rx: 253182 Drugbank: DB00030 ATC: A10AB01
+Iodine  -  Rx: 5933 Drugbank: DB05382 ATC: D08AG03
+Iohexol  -  Rx: 5956 Drugbank: DB01362 ATC: V08AB02
+Ipecacuanha  -  Rx: 5975 Drugbank: DB13293 ATC: R05CA04
+Ipratropium bromide  -  Rx: 203212 Drugbank: DB00332 ATC: R01AX03
+Irinotecan  -  Rx: 51499 Drugbank: DB00762 ATC: L01CE02
+Isoflurane  -  Rx: 6026 Drugbank: DB00753 ATC: N01AB06
+Isoniazid  -  Rx: 6038 Drugbank: DB00951 ATC: J04AC01
+Isoprenaline  -  Rx: 6054 Drugbank: DB01064 ATC: C01CA02
+Isosorbide dinitrate  -  Rx: 6058 Drugbank: DB00883 ATC: C01DA08
+Isosorbide mononitrate  -  Rx: 28004 Drugbank: DB01020 ATC: C01DA14
+Itraconazole  -  Rx: 28031 Drugbank: DB01167 ATC: J02AC02
+Ivermectin  -  Rx: 6069 Drugbank: DB00602 ATC: D11AX22
+Kanamycin  -  Rx: 6099 Drugbank: DB01172 ATC: A07AA08
+Ketamine  -  Rx: 6130 Drugbank: DB01221 ATC: N01AX03
+Labetalol  -  Rx: 6185 Drugbank: DB00598 ATC: C07AG01
+Lactulose  -  Rx: 6218 Drugbank: DB00581 ATC: A06AD11
+Lamivudine  -  Rx: 68244 Drugbank: DB00709 ATC: J05AF05
+Lamotrigine  -  Rx: 28439 Drugbank: DB00555 ATC: N03AX09
+Lansoprazole  -  Rx: 17128 Drugbank: DB00448 ATC: A02BC03
+Latanoprost  -  Rx: 43611 Drugbank: DB00654 ATC: S01EE01
+Lenalidomide  -  Rx: 342369 Drugbank: DB00480 ATC: L04AX04
+Lercanidipine  -  Rx: 135056 Drugbank: DB00528 ATC: C08CA13
+Letrozole  -  Rx: 72965 Drugbank: DB01006 ATC: L02BG04
+Leuprorelin  -  Rx: 42375 Drugbank: DB00007 ATC: L02AE02
+Levamisole  -  Rx: 6371 Drugbank: DB00848 ATC: P02CE01
+Levetiracetam  -  Rx: 114477 Drugbank: DB01202 ATC: N03AX14
+Levobunolol  -  Rx: 1813 Drugbank: DB01210 ATC: S01ED03
+Levocetirizine  -  Rx: 356887 Drugbank: DB06282 ATC: R06AE09
+Levodopa  -  Rx: 6375 Drugbank: DB01235 ATC: N04BA01
+Levofloxacin  -  Rx: 82122 Drugbank: DB01137 ATC: J01MA12
+Levonorgestrel  -  Rx: 6373 Drugbank: DB00367 ATC: G03AC03
+Levothyroxine  -  Rx: 10582 Drugbank: DB00451 ATC: NA
+Lidocaine  -  Rx: 6387 Drugbank: DB00281 ATC: C01BB01
+Linagliptin  -  Rx: 1100699 Drugbank: DB08882 ATC: A10BH05
+Lindane  -  Rx: 1388 Drugbank: DB00431 ATC: P03AB02
+Linezolid  -  Rx: 190376 Drugbank: DB00601 ATC: J01XX08
+Liraglutide  -  Rx: 475968 Drugbank: DB06655 ATC: A10BJ02
+Lisinopril  -  Rx: 29046 Drugbank: DB00722 ATC: C09AA03
+Lithium  -  Rx: 6448 Drugbank: NA ATC: N05AN01
+Lithium carbonate  -  Rx: 42351 Drugbank: DB14509 ATC: NA
+Loperamide  -  Rx: 6468 Drugbank: DB00836 ATC: A07DA03
+Loratadine  -  Rx: 28889 Drugbank: DB00455 ATC: R06AX13
+Lorazepam  -  Rx: 6470 Drugbank: DB00186 ATC: N05BA06
+Lormetazepam  -  Rx: 28894 Drugbank: DB13872 ATC: N05CD06
+Lornoxicam  -  Rx: 20890 Drugbank: DB06725 ATC: M01AC05
+Losartan  -  Rx: 52175 Drugbank: DB00678 ATC: C09CA01
+Lovastatin  -  Rx: 6472 Drugbank: DB00227 ATC: C10AA02
+Lymecycline  -  Rx: 6513 Drugbank: DB00256 ATC: J01AA04
+Magnesium sulfate  -  Rx: 6585 Drugbank: DB00653 ATC: A06AD04
+Mannitol  -  Rx: 6628 Drugbank: DB00742 ATC: A06AD16
+Mebendazole  -  Rx: 6672 Drugbank: DB00643 ATC: P02CA01
+Mebeverine  -  Rx: 29410 Drugbank: DB12554 ATC: A03AA04
+Medroxyprogesterone  -  Rx: 6691 Drugbank: NA ATC: G03AC06
+Medroxyprogesterone acetate  -  Rx: 1000112 Drugbank: DB00603 ATC: NA
+Mefenamic acid  -  Rx: 6693 Drugbank: DB00784 ATC: M01AG01
+Mefloquine  -  Rx: 6694 Drugbank: DB00358 ATC: P01BC02
+Meglumine antimoniate  -  Rx: 319866 Drugbank: DB13732 ATC: P01CB01
+Meloxicam  -  Rx: 41493 Drugbank: DB00814 ATC: M01AC06
+Melphalan  -  Rx: 6718 Drugbank: DB01042 ATC: L01AA03
+Memantine  -  Rx: 6719 Drugbank: DB01043 ATC: N06DX01
+Mercaptopurine  -  Rx: 103 Drugbank: DB01033 ATC: L01BB02
+Meropenem  -  Rx: 29561 Drugbank: DB00760 ATC: J01DH02
+Mesalazine  -  Rx: 52582 Drugbank: DB00244 ATC: A07EC02
+Mesna  -  Rx: 44 Drugbank: NA ATC: R05CB05
+Metformin  -  Rx: 6809 Drugbank: DB00331 ATC: A10BA02
+Methadone  -  Rx: 6813 Drugbank: DB00333 ATC: N07BC02
+Methimazole  -  Rx: 6835 Drugbank: DB00763 ATC: H03BB02
+Methionine  -  Rx: 6837 Drugbank: DB00134 ATC: V03AB26
+Methotrexate  -  Rx: 6851 Drugbank: DB00563 ATC: L01BA01
+Methoxy polyethylene glycol-epoetin beta  -  Rx: 729596 Drugbank: DB09107 ATC: B03XA03
+Methyldopa  -  Rx: 6876 Drugbank: DB00968 ATC: C02AB01
+Methylphenidate  -  Rx: 6901 Drugbank: DB00422 ATC: N06BA04
+Methylprednisolone  -  Rx: 6902 Drugbank: DB00959 ATC: D07AA01
+Methylthioninium chloride  -  Rx: 6878 Drugbank: DB09241 ATC: V03AB17
+Metoclopramide  -  Rx: 6915 Drugbank: DB01233 ATC: A03FA01
+Metoprolol  -  Rx: 6918 Drugbank: DB00264 ATC: C07AB02
+Metronidazole  -  Rx: 6922 Drugbank: DB00916 ATC: A01AB17
+Miconazole  -  Rx: 6932 Drugbank: DB01110 ATC: A01AB09
+Midazolam  -  Rx: 6960 Drugbank: DB00683 ATC: N05CD08
+Miltefosine  -  Rx: 1494066 Drugbank: DB09031 ATC: P01CX04
+Minocycline  -  Rx: 6980 Drugbank: DB01017 ATC: A01AB23
+Mirabegron  -  Rx: 1300786 Drugbank: DB08893 ATC: G04BD12
+Mirtazapine  -  Rx: 15996 Drugbank: DB00370 ATC: N06AX11
+Misoprostol  -  Rx: 42331 Drugbank: DB00929 ATC: A02BB01
+Modafinil  -  Rx: 30125 Drugbank: DB00745 ATC: N06BA07
+Mometasone  -  Rx: 108118 Drugbank: NA ATC: D07AC13
+Montelukast  -  Rx: 88249 Drugbank: DB00471 ATC: R03DC03
+Morphine  -  Rx: 7052 Drugbank: DB00295 ATC: N02AA01
+Moxifloxacin  -  Rx: 139462 Drugbank: DB00218 ATC: J01MA14
+Mupirocin  -  Rx: 42372 Drugbank: DB00410 ATC: D06AX09
+Mycophenolate mofetil  -  Rx: 68149 Drugbank: DB00688 ATC: NA
+Nadroparin  -  Rx: 67031 Drugbank: DB08813 ATC: B01AB06
+Naftidrofuryl oxalate  -  Rx: 7237 Drugbank: NA ATC: NA
+Nalidixic acid  -  Rx: 7240 Drugbank: DB00779 ATC: J01MB02
+Naloxone  -  Rx: 7242 Drugbank: DB01183 ATC: A06AH04
+Naproxen  -  Rx: 7258 Drugbank: DB00788 ATC: G02CC02
+Naratriptan  -  Rx: 141366 Drugbank: DB00952 ATC: N02CC02
+Natamycin  -  Rx: 7268 Drugbank: DB00826 ATC: A01AB10
+Nebivolol  -  Rx: 31555 Drugbank: DB04861 ATC: C07AB12
+Nefopam  -  Rx: 7285 Drugbank: DB12293 ATC: N02BG06
+Nelfinavir  -  Rx: 134527 Drugbank: DB00220 ATC: J05AE04
+Neostigmine  -  Rx: 7315 Drugbank: DB01400 ATC: N07AA01
+Nevirapine  -  Rx: 53654 Drugbank: DB00238 ATC: J05AG01
+Niclosamide  -  Rx: 7402 Drugbank: DB06803 ATC: P02DA01
+Nicorandil  -  Rx: 31748 Drugbank: DB09220 ATC: C01DX16
+Nicotinamide  -  Rx: 7405 Drugbank: DB02701 ATC: A11HA01
+Nicotine  -  Rx: 7407 Drugbank: DB00184 ATC: N07BA01
+Nicotinic acid  -  Rx: 7393 Drugbank: DB00627 ATC: C04AC01
+Nifedipine  -  Rx: 7417 Drugbank: DB01115 ATC: C08CA05
+Nifurtimox  -  Rx: 7421 Drugbank: DB11820 ATC: P01CC01
+Nilotinib  -  Rx: 662281 Drugbank: DB04868 ATC: L01EA03
+Nitrofurantoin  -  Rx: 7454 Drugbank: DB00698 ATC: J01XE01
+Nitrous oxide  -  Rx: 7486 Drugbank: DB06690 ATC: N01AX13
+Nivolumab  -  Rx: 1597876 Drugbank: DB09035 ATC: L01XC17
+Norethisterone  -  Rx: 7514 Drugbank: DB00717 ATC: G03AC01
+Norethisterone enantate  -  Rx: 31984 Drugbank: NA ATC: NA
+Nortriptyline  -  Rx: 7531 Drugbank: DB00540 ATC: N06AA10
+Nystatin  -  Rx: 7597 Drugbank: DB00646 ATC: A07AA02
+Ocrelizumab  -  Rx: 1876366 Drugbank: DB11988 ATC: L04AA36
+Ofloxacin  -  Rx: 7623 Drugbank: DB01165 ATC: J01MA01
+Olanzapine  -  Rx: 61381 Drugbank: DB00334 ATC: N05AH03
+Olmesartan  -  Rx: 321064 Drugbank: DB00275 ATC: NA
+Olopatadine  -  Rx: 135391 Drugbank: DB00768 ATC: R01AC08
+Olsalazine  -  Rx: 32385 Drugbank: DB01250 ATC: A07EC03
+Omadacycline  -  Rx: 2059269 Drugbank: DB12455 ATC: J01AA15
+Omega-3  -  Rx: 4301 Drugbank: DB11133 ATC: NA
+Omeprazole  -  Rx: 7646 Drugbank: DB00338 ATC: A02BC01
+Ondansetron  -  Rx: 26225 Drugbank: DB00904 ATC: A04AA01
+Orlistat  -  Rx: 37925 Drugbank: DB01083 ATC: A08AB01
+Oseltamivir  -  Rx: 260101 Drugbank: DB00198 ATC: J05AH02
+Oxaliplatin  -  Rx: 32592 Drugbank: DB00526 ATC: L01XA03
+Oxamniquine  -  Rx: 7778 Drugbank: DB01096 ATC: P02BA02
+Oxcarbazepine  -  Rx: 32624 Drugbank: DB00776 ATC: N03AF02
+Oxpentifylline  -  Rx: 8013 Drugbank: DB00806 ATC: C04AD03
+Oxybutynin  -  Rx: 32675 Drugbank: DB01062 ATC: G04BD04
+Oxycodone  -  Rx: 7804 Drugbank: DB00497 ATC: N02AA05
+Oxygen  -  Rx: 7806 Drugbank: DB09140 ATC: V03AN01
+Oxytocin  -  Rx: 7824 Drugbank: DB00107 ATC: H01BB02
+P-aminosalicylic acid  -  Rx: 7833 Drugbank: DB00233 ATC: J04AA01
+Paclitaxel  -  Rx: 56946 Drugbank: DB01229 ATC: L01CD01
+Pancreatin  -  Rx: 7880 Drugbank: DB00085 ATC: NA
+Pantoprazole  -  Rx: 40790 Drugbank: DB00213 ATC: A02BC02
+Paracetamol  -  Rx: 161 Drugbank: DB00316 ATC: N02BE01
+Paromomycin  -  Rx: 7934 Drugbank: DB01421 ATC: A07AA06
+Paroxetine  -  Rx: 32937 Drugbank: DB00715 ATC: N06AB05
+Pegaspargase  -  Rx: 34132 Drugbank: DB00059 ATC: L01XX24
+Pembrolizumab  -  Rx: 1547545 Drugbank: DB09037 ATC: L01XC18
+Penicillamine  -  Rx: 7975 Drugbank: DB00859 ATC: M01CC01
+Pentamidine  -  Rx: 7994 Drugbank: DB00738 ATC: NA
+Peppermint oil  -  Rx: 33094 Drugbank: DB11198 ATC: A03AX15
+Perindopril  -  Rx: 54552 Drugbank: DB00790 ATC: C09AA04
+Permethrin  -  Rx: 33199 Drugbank: DB04930 ATC: P03AC04
+Pertuzumab  -  Rx: 1298944 Drugbank: DB06366 ATC: L01XC13
+Phenobarbital  -  Rx: 8134 Drugbank: DB01174 ATC: N03AA02
+Phenoxymethylpenicillin  -  Rx: 7984 Drugbank: DB00417 ATC: J01CE02
+Phenprocoumon  -  Rx: 8150 Drugbank: DB00946 ATC: B01AA04
+Phenytoin  -  Rx: 8183 Drugbank: DB00252 ATC: N03AB02
+Phosphate  -  Rx: 486961 Drugbank: NA ATC: NA
+Phytomenadione  -  Rx: 8308 Drugbank: DB01022 ATC: B02BA01
+Pilocarpine  -  Rx: 8328 Drugbank: DB01085 ATC: N07AX01
+Pimozide  -  Rx: 8331 Drugbank: DB01100 ATC: N05AG02
+Pioglitazone  -  Rx: 33738 Drugbank: DB01132 ATC: A10BG03
+Piroxicam  -  Rx: 8356 Drugbank: DB00554 ATC: M01AC01
+Pitolisant  -  Rx: 2197878 Drugbank: DB11642 ATC: N07XX11
+Plazomicin  -  Rx: 2049549 Drugbank: DB12615 ATC: J01GB14
+Podophyllotoxin  -  Rx: 8463 Drugbank: DB01179 ATC: D06BB04
+Podophyllum resin  -  Rx: 8462 Drugbank: DB09094 ATC: NA
+Polygeline  -  Rx: 8521 Drugbank: NA ATC: NA
+Polymyxin b  -  Rx: 8536 Drugbank: DB00781 ATC: A07AA05
+Polyvinyl alcohol  -  Rx: 8570 Drugbank: DB11060 ATC: NA
+Potassium chloride  -  Rx: 8591 Drugbank: DB00761 ATC: A12BA01
+Potassium iodide  -  Rx: 8597 Drugbank: DB06715 ATC: R05CA02
+Potassium permanganate  -  Rx: 8604 Drugbank: DB13831 ATC: D08AX06
+Povidone iodine  -  Rx: 8611 Drugbank: DB06812 ATC: D08AG02
+Pralidoxime  -  Rx: 34345 Drugbank: DB00733 ATC: V03AB04
+Pramipexole  -  Rx: 746741 Drugbank: DB00413 ATC: N04BC05
+Prasugrel  -  Rx: 613391 Drugbank: DB06209 ATC: B01AC22
+Pravastatin  -  Rx: 42463 Drugbank: DB00175 ATC: C10AA03
+Prazepam  -  Rx: 8627 Drugbank: DB01588 ATC: N05BA11
+Praziquantel  -  Rx: 8628 Drugbank: DB01058 ATC: P02BA01
+Prednisolone  -  Rx: 8638 Drugbank: DB00860 ATC: A07EA01
+Pregabalin  -  Rx: 187832 Drugbank: DB00230 ATC: N03AX16
+Primaquine  -  Rx: 8687 Drugbank: DB01087 ATC: P01BA03
+Probenecid  -  Rx: 8698 Drugbank: DB01032 ATC: M04AB01
+Procainamide  -  Rx: 8700 Drugbank: DB01035 ATC: C01BA02
+Procaine benzylpenicillin  -  Rx: 7983 Drugbank: DB09320 ATC: J01CE09
+Procarbazine  -  Rx: 8702 Drugbank: DB01168 ATC: L01XB01
+Prochlorperazine  -  Rx: 8704 Drugbank: DB00433 ATC: N05AB04
+Proguanil  -  Rx: 2382 Drugbank: DB01131 ATC: P01BB01
+Promethazine  -  Rx: 8745 Drugbank: DB01069 ATC: D04AA10
+Propafenone  -  Rx: 8754 Drugbank: DB01182 ATC: C01BC03
+Propiverine  -  Rx: 55175 Drugbank: DB12278 ATC: G04BD06
+Propofol  -  Rx: 8782 Drugbank: DB00818 ATC: N01AX10
+Propranolol  -  Rx: 8787 Drugbank: DB00571 ATC: C07AA05
+Propylthiouracil  -  Rx: 8794 Drugbank: DB00550 ATC: H03BA02
+Prostaglandin e1  -  Rx: 598 Drugbank: DB00770 ATC: C01EA01
+Prostaglandin e2  -  Rx: 3478 Drugbank: DB00917 ATC: G02AD02
+Protamine sulfate  -  Rx: 8825 Drugbank: DB09141 ATC: NA
+Pyrantel  -  Rx: 8984 Drugbank: DB11156 ATC: P02CC01
+Pyrazinamide  -  Rx: 8987 Drugbank: DB00339 ATC: J04AK01
+Pyridostigmine  -  Rx: 9000 Drugbank: DB00545 ATC: N07AA02
+Pyridoxine  -  Rx: 684879 Drugbank: DB00165 ATC: A11HA02
+Pyrimethamine  -  Rx: 9010 Drugbank: DB00205 ATC: P01BD01
+Quetiapine  -  Rx: 51272 Drugbank: DB01224 ATC: N05AH04
+Quinapril  -  Rx: 35208 Drugbank: DB00881 ATC: C09AA06
+Quinidine  -  Rx: 9068 Drugbank: DB00908 ATC: C01BA01
+Quinine  -  Rx: 9071 Drugbank: DB00468 ATC: P01BC01
+Quinine sulphate  -  Rx: 9075 Drugbank: NA ATC: NA
+Rabeprazole  -  Rx: 114979 Drugbank: DB01129 ATC: A02BC04
+Rabies immune globulin  -  Rx: 89886 Drugbank: DB11603 ATC: J06BB05
+Raloxifene  -  Rx: 72143 Drugbank: DB00481 ATC: G03XC01
+Raltegravir  -  Rx: 719872 Drugbank: DB06817 ATC: J05AJ01
+Ramipril  -  Rx: 35296 Drugbank: DB00178 ATC: C09AA05
+Ranibizumab  -  Rx: 595060 Drugbank: DB01270 ATC: S01LA04
+Ranitidine  -  Rx: 9143 Drugbank: DB00863 ATC: A02BA02
+Ranolazine  -  Rx: 35829 Drugbank: DB00243 ATC: C01EB18
+Rasagiline  -  Rx: 134748 Drugbank: DB01367 ATC: N04BD02
+Retinol  -  Rx: 11246 Drugbank: NA ATC: A11CA01
+Ribavirin  -  Rx: 9344 Drugbank: DB00811 ATC: J05AP01
+Riboflavin  -  Rx: 9346 Drugbank: DB00140 ATC: A11HA04
+Rifabutin  -  Rx: 55672 Drugbank: DB00615 ATC: J04AB04
+Rifampicin  -  Rx: 9384 Drugbank: DB01045 ATC: J04AB02
+Rifapentine  -  Rx: 35617 Drugbank: DB01201 ATC: J04AB05
+Rifaximin  -  Rx: 35619 Drugbank: DB01220 ATC: A07AA11
+Risedronic acid  -  Rx: 55685 Drugbank: DB00884 ATC: M05BA07
+Risperidone  -  Rx: 35636 Drugbank: DB00734 ATC: N05AX08
+Ritonavir  -  Rx: 85762 Drugbank: DB00503 ATC: J05AE03
+Rituximab  -  Rx: 121191 Drugbank: DB00073 ATC: L01XC02
+Rivaroxaban  -  Rx: 1114195 Drugbank: DB06228 ATC: B01AF01
+Ropinirole  -  Rx: 72302 Drugbank: DB00268 ATC: N04BC04
+Rosiglitazone  -  Rx: 84108 Drugbank: DB00412 ATC: A10BG02
+Rosuvastatin  -  Rx: 301542 Drugbank: DB01098 ATC: C10AA07
+Salbutamol  -  Rx: 435 Drugbank: DB01001 ATC: R03AC02
+Salicylic acid  -  Rx: 9525 Drugbank: DB00936 ATC: D01AE12
+Saquinavir  -  Rx: 83395 Drugbank: DB01232 ATC: J05AE01
+Saxagliptin  -  Rx: 857974 Drugbank: DB06335 ATC: A10BH03
+Selenium sulfide  -  Rx: 36345 Drugbank: DB00971 ATC: D01AE13
+Sennoside  -  Rx: 36387 Drugbank: NA ATC: A06AB06
+Sertraline  -  Rx: 36437 Drugbank: DB01104 ATC: N06AB06
+Sildenafil  -  Rx: 136411 Drugbank: DB00203 ATC: G04BE03
+Silodosin  -  Rx: 720825 Drugbank: DB06207 ATC: G04CA04
+Silver nitrate  -  Rx: 9789 Drugbank: DB11080 ATC: D08AL01
+Silver sulfadiazine  -  Rx: 9793 Drugbank: DB05245 ATC: D06BA01
+Simeprevir  -  Rx: 1482790 Drugbank: DB06290 ATC: J05AP05
+Simvastatin  -  Rx: 36567 Drugbank: DB00641 ATC: C10AA01
+Siponimod  -  Rx: 2121085 Drugbank: DB12371 ATC: L04AA42
+Sitagliptin  -  Rx: 593411 Drugbank: DB01261 ATC: A10BH01
+Smallpox vaccine  -  Rx: 1492300 Drugbank: DB14711 ATC: NA
+Sodium alginate  -  Rx: 56446 Drugbank: NA ATC: NA
+Sodium calcium edetate  -  Rx: 1903 Drugbank: NA ATC: NA
+Sodium chloride  -  Rx: 9863 Drugbank: DB09153 ATC: A12CA01
+Sodium cromoglycate  -  Rx: 3538 Drugbank: NA ATC: NA
+Sodium fluoride  -  Rx: 9873 Drugbank: DB09325 ATC: A01AA01
+Sodium hyaluronate  -  Rx: 42892 Drugbank: NA ATC: NA
+Sodium lactate  -  Rx: 56489 Drugbank: NA ATC: NA
+Sodium nitrite  -  Rx: 9894 Drugbank: NA ATC: V03AB08
+Sodium nitroprusside  -  Rx: 9895 Drugbank: NA ATC: NA
+Sodium stibogluconate  -  Rx: 8010 Drugbank: DB05630 ATC: P01CB02
+Sodium thiosulfate  -  Rx: 36726 Drugbank: NA ATC: NA
+Sodium valproate  -  Rx: 9919 Drugbank: NA ATC: NA
+Sofosbuvir  -  Rx: 1484911 Drugbank: DB08934 ATC: J05AP08
+Solifenacin  -  Rx: 322167 Drugbank: DB01591 ATC: G04BD08
+Somatropin  -  Rx: 61148 Drugbank: DB00052 ATC: H01AC01
+Sotalol  -  Rx: 9947 Drugbank: DB00489 ATC: C07AA07
+Spectinomycin  -  Rx: 270 Drugbank: DB00919 ATC: J01XX04
+Spironolactone  -  Rx: 9997 Drugbank: DB00421 ATC: C03DA01
+Stavudine  -  Rx: 59763 Drugbank: DB00649 ATC: J05AF04
+Streptokinase  -  Rx: 10106 Drugbank: DB00086 ATC: B01AD01
+Streptomycin  -  Rx: 10109 Drugbank: DB01082 ATC: A07AA04
+Succimer  -  Rx: 3446 Drugbank: DB00566 ATC: NA
+Sulfacetamide  -  Rx: 10169 Drugbank: DB00634 ATC: D10AF06
+Sulfadiazine  -  Rx: 10171 Drugbank: DB00359 ATC: J01EC02
+Sulfamethoxazole and trimethoprim  -  Rx: 10831 Drugbank: NA ATC: J01EE01
+Sulfasalazine  -  Rx: 9524 Drugbank: DB00795 ATC: A07EC01
+Sumatriptan  -  Rx: 37418 Drugbank: DB00669 ATC: N02CC01
+Suxamethonium  -  Rx: 10154 Drugbank: DB00202 ATC: M03AB01
+Tacrolimus  -  Rx: 42316 Drugbank: DB00864 ATC: D11AH01
+Tadalafil  -  Rx: 358263 Drugbank: DB00820 ATC: G04BE08
+Tafluprost  -  Rx: 1244607 Drugbank: DB08819 ATC: S01EE05
+Tamoxifen  -  Rx: 10324 Drugbank: DB00675 ATC: L02BA01
+Tapentadol  -  Rx: 787390 Drugbank: DB06204 ATC: N02AX06
+Telmisartan  -  Rx: 73494 Drugbank: DB00966 ATC: C09CA07
+Tenofovir alafenamide  -  Rx: 1721603 Drugbank: DB09299 ATC: J05AF13
+Tenofovir disoproxil fumarate  -  Rx: 322248 Drugbank: NA ATC: NA
+Tenoxicam  -  Rx: 37790 Drugbank: DB00469 ATC: M01AC02
+Terbinafine  -  Rx: 37801 Drugbank: DB00857 ATC: D01AE15
+Terbutaline  -  Rx: 10368 Drugbank: DB00871 ATC: R03AC03
+Testosterone  -  Rx: 10379 Drugbank: DB00624 ATC: G03BA03
+Tetanus immune globulin  -  Rx: 1727875 Drugbank: DB11604 ATC: J06BB02
+Tetrabenazine  -  Rx: 10390 Drugbank: DB04844 ATC: N07XX06
+Tetracaine  -  Rx: 10391 Drugbank: DB09085 ATC: C05AD02
+Tetracycline  -  Rx: 10395 Drugbank: DB00759 ATC: A01AB13
+Thalidomide  -  Rx: 10432 Drugbank: DB01041 ATC: L04AX02
+Theophylline  -  Rx: 10438 Drugbank: DB00277 ATC: R03DA04
+Thiamine  -  Rx: 10454 Drugbank: DB00152 ATC: A11DA01
+Tibolone  -  Rx: 38260 Drugbank: DB09070 ATC: G03CX01
+Tigecycline  -  Rx: 384455 Drugbank: DB00560 ATC: J01AA12
+Timolol  -  Rx: 10600 Drugbank: DB00373 ATC: C07AA06
+Tinzaparin  -  Rx: 69646 Drugbank: DB06822 ATC: B01AB10
+Tioguanine  -  Rx: 10485 Drugbank: DB00352 ATC: L01BB03
+Tiotropium  -  Rx: 69120 Drugbank: DB01409 ATC: NA
+Tiotropium bromide  -  Rx: 393575 Drugbank: NA ATC: R03BB04
+Tizanidine  -  Rx: 57258 Drugbank: DB00697 ATC: M03BX02
+Tobramycin  -  Rx: 10627 Drugbank: DB00684 ATC: J01GB01
+Tolbutamide  -  Rx: 10635 Drugbank: DB01124 ATC: A10BB03
+Tolterodine  -  Rx: 119565 Drugbank: DB01036 ATC: G04BD07
+Tramadol  -  Rx: 10689 Drugbank: DB00193 ATC: N02AX02
+Trandolapril  -  Rx: 38454 Drugbank: DB00519 ATC: C09AA10
+Tranexamic acid  -  Rx: 10691 Drugbank: DB00302 ATC: B02AA02
+Tranylcypromine  -  Rx: 10734 Drugbank: DB00752 ATC: N06AF04
+Trastuzumab  -  Rx: 224905 Drugbank: DB00072 ATC: L01XC03
+Trastuzumab emtansine  -  Rx: 1371041 Drugbank: DB05773 ATC: L01XC14
+Travoprost  -  Rx: 283809 Drugbank: DB00287 ATC: S01EE04
+Trazodone  -  Rx: 10737 Drugbank: DB00656 ATC: N06AX05
+Tretinoin  -  Rx: 10753 Drugbank: DB00755 ATC: D10AD01
+Triamcinolone  -  Rx: 10759 Drugbank: DB00620 ATC: A01AC01
+Triazolam  -  Rx: 10767 Drugbank: DB00897 ATC: N05CD05
+Triclabendazole  -  Rx: 2118525 Drugbank: DB12245 ATC: P02BX04
+Trifluoperazine  -  Rx: 10800 Drugbank: DB00831 ATC: N05AB06
+Trihexyphenidyl  -  Rx: 10811 Drugbank: DB00376 ATC: N04AA01
+Trimetazidine  -  Rx: 10826 Drugbank: DB09069 ATC: C01EB15
+Trimethoprim  -  Rx: 10829 Drugbank: DB00440 ATC: J01EA01
+Trimipramine  -  Rx: 10834 Drugbank: DB00726 ATC: N06AA06
+Triptorelin  -  Rx: 38782 Drugbank: DB06825 ATC: L02AE04
+Tropicamide  -  Rx: 10869 Drugbank: DB00809 ATC: S01FA06
+Trospium  -  Rx: 236778 Drugbank: DB00209 ATC: G04BD09
+Trospium chloride  -  Rx: 38891 Drugbank: NA ATC: NA
+Tuberculin  -  Rx: 10908 Drugbank: NA ATC: V04CF01
+Tubocurarine  -  Rx: 10917 Drugbank: DB01199 ATC: M03AA02
+Ulipristal  -  Rx: 1005921 Drugbank: DB08867 ATC: G03AD02
+Umeclidinium  -  Rx: 1487514 Drugbank: DB09076 ATC: NA
+Umeclidinium/Vilanterol  -  Rx: 1487518 Drugbank: NA ATC: NA
+Urea  -  Rx: 11002 Drugbank: DB03904 ATC: B05BC02
+Ursodeoxycholic acid  -  Rx: 11065 Drugbank: DB01586 ATC: A05AA02
+Valaciclovir  -  Rx: 73645 Drugbank: DB00577 ATC: J05AB11
+Valganciclovir  -  Rx: 275891 Drugbank: DB01610 ATC: J05AB14
+Valproic acid  -  Rx: 11118 Drugbank: DB00313 ATC: N03AG01
+Valsartan  -  Rx: 69749 Drugbank: DB00177 ATC: C09CA03
+Vancomycin  -  Rx: 11124 Drugbank: DB00512 ATC: A07AA09
+Vardenafil  -  Rx: 306674 Drugbank: DB00862 ATC: G04BE09
+Varenicline  -  Rx: 591622 Drugbank: DB01273 ATC: N07BA03
+Varicella vaccine  -  Rx: 1292422 Drugbank: DB10318 ATC: J07BK01
+Vecuronium  -  Rx: 71535 Drugbank: DB01339 ATC: M03AC03
+Venlafaxine  -  Rx: 39786 Drugbank: DB00285 ATC: N06AX16
+Verapamil  -  Rx: 11170 Drugbank: DB00661 ATC: C08DA01
+Vibrio cholerae  -  Rx: 1432992 Drugbank: NA ATC: NA
+Vinblastine  -  Rx: 11198 Drugbank: DB00570 ATC: L01CA01
+Vincristine  -  Rx: 11202 Drugbank: DB00541 ATC: L01CA02
+Vinorelbine  -  Rx: 39541 Drugbank: DB00361 ATC: L01CA04
+Voriconazole  -  Rx: 121243 Drugbank: DB00582 ATC: J02AC03
+Vortioxetine  -  Rx: 1455099 Drugbank: DB09068 ATC: N06AX26
+Warfarin  -  Rx: 11289 Drugbank: DB00682 ATC: B01AA03
+Xylometazoline  -  Rx: 39841 Drugbank: DB06694 ATC: R01AA07
+Yellow fever vaccine  -  Rx: 804187 Drugbank: DB10805 ATC: NA
+Zidovudine  -  Rx: 11413 Drugbank: DB00495 ATC: J05AF01
+Zinc sulfate  -  Rx: 39954 Drugbank: DB09322 ATC: A12CB01
+Zofenopril  -  Rx: 39990 Drugbank: DB13166 ATC: C09AA15
+Zoledronic acid  -  Rx: 77655 Drugbank: DB00399 ATC: M05BA08
+Zolmitriptan  -  Rx: 135775 Drugbank: DB00315 ATC: N02CC03
+Zolpidem  -  Rx: 39993 Drugbank: DB00425 ATC: N05CF02
+Zopiclone  -  Rx: 40001 Drugbank: DB01198 ATC: N05CF01
+Zuclopenthixol  -  Rx: 114176 Drugbank: DB01624 ATC: N05AF05
+
+Subtotal found 722
+
+
+XXXXXXXXXXXXXXXX Combination Drugs Split & Found XXXXXXXXXXXXX
+Aluminium hydroxide/Magnesium hydroxide only Magnesium hydroxide  -  Rx: 6581 Drugbank: DB09104 ATC: A02AA04
+Aluminium hydroxide/Magnesium hydroxide only Aluminium hydroxide  -  Rx: 612 Drugbank: DB06723 ATC: A02AB01
+Amoxicillin/Clavulanic acid as Amoxicillin-Clavulanic acid  -  Rx: 19711 Drugbank: NA ATC: NA
+Betamethasone/Salicylic acid as Betamethasone / Salicylic acid  -  Rx: 1000711 Drugbank: NA ATC: NA
+Calcipotriol/Betamethasone only Calcipotriol  -  Rx: 29365 Drugbank: DB02300 ATC: D05AX02
+Calcium phosphate/Colecalciferol only Colecalciferol  -  Rx: 2418 Drugbank: DB00169 ATC: A11CC05
+Calcium phosphate/Colecalciferol only Calcium phosphate  -  Rx: 1919 Drugbank: DB11348 ATC: A12AA01
+Chlorhexidine/Neomycin as Chlorhexidine / Neomycin  -  Rx: 820887 Drugbank: NA ATC: NA
+Codeine/Ibuprofen as Codeine / Ibuprofen  -  Rx: 710303 Drugbank: NA ATC: N02AJ08
+Codeine/Paracetamol as Codeine and Paracetamol  -  Rx: 817579 Drugbank: NA ATC: N02AJ06
+Dextran70/Hypromellose only Hypromellose  -  Rx: 27334 Drugbank: DB11075 ATC: S01KA02
+Diphenoxylate/Atropine sulphate only Atropine sulphate  -  Rx: 153971 Drugbank: NA ATC: NA
+Diphenoxylate/Atropine sulphate only Diphenoxylate  -  Rx: 3500 Drugbank: DB01081 ATC: A07DA01
+Dipyridamole/Aspirin as Aspirin/Dipyridamole  -  Rx: 226716 Drugbank: NA ATC: NA
+Estrogen/Medroxyprogesterone only Medroxyprogesterone  -  Rx: 6691 Drugbank: NA ATC: G03AC06
+Estrogen/Medroxyprogesterone only Estrogen  -  Rx: 4100 Drugbank: NA ATC: NA
+Felodipine/Ramipril as Felodipine / Ramipril  -  Rx: 389179 Drugbank: NA ATC: C09BB05
+Ferrous sulphate/Vitamin c only Ferrous sulphate  -  Rx: 24947 Drugbank: DB13257 ATC: B03AA07
+Furosemide/Amiloride as Amiloride / Furosemide  -  Rx: 818351 Drugbank: NA ATC: NA
+Indacaterol/Glycopyrronium as Glycopyrronium / Indacaterol  -  Rx: 1721575 Drugbank: NA ATC: NA
+Ipratropium/Salbutamol only Salbutamol  -  Rx: 435 Drugbank: DB01001 ATC: R03AC02
+Ipratropium/Salbutamol only Ipratropium  -  Rx: 7213 Drugbank: DB00332 ATC: NA
+Irbesartan/Hydrochlorothiazide as Hydrochlorothiazide/Irbesartan  -  Rx: 214617 Drugbank: NA ATC: NA
+Levodopa/Carbidopa as Carbidopa/Levodopa  -  Rx: 103990 Drugbank: NA ATC: NA
+Levonorgestrel/Ethinylestradiol as Levonorgestrel and Ethinylestradiol  -  Rx: 214558 Drugbank: NA ATC: G03AA07
+Lisinopril/Hydrochlorothiazide as Hydrochlorothiazide/Lisinopril  -  Rx: 214618 Drugbank: NA ATC: NA
+Losartan/Hydrochlorothiazide as Hydrochlorothiazide/Losartan  -  Rx: 214619 Drugbank: NA ATC: NA
+Mebeverine/Ispaghula husk only Ispaghula husk  -  Rx: 104129 Drugbank: DB11097 ATC: NA
+Naproxen/Esomeprazole as Naproxen and Esomeprazole  -  Rx: 994202 Drugbank: NA ATC: M01AE52
+Olmesartan/Amlodipine as Amlodipine/Olmesartan  -  Rx: 1009015 Drugbank: NA ATC: NA
+Olmesartan/Hydrochlorothiazide as Hydrochlorothiazide/Olmesartan  -  Rx: 817496 Drugbank: NA ATC: NA
+Oxycodone/Naloxone as Oxycodone and Naloxone  -  Rx: 1545902 Drugbank: NA ATC: N02AA55
+Perindopril/Amlodipine as Perindopril and Amlodipine  -  Rx: 1033889 Drugbank: NA ATC: C09BB04
+Perindopril/Indapamide as Indapamide / Perindopril  -  Rx: 388499 Drugbank: NA ATC: NA
+Pioglitazone/Metformin as Metformin/Pioglitazone  -  Rx: 607999 Drugbank: NA ATC: A10BD05
+Quinapril/Hydrochlorothiazide as Hydrochlorothiazide/Quinapril  -  Rx: 261417 Drugbank: NA ATC: NA
+Salmeterol/Fluticasone as Salmeterol and Fluticasone  -  Rx: 284635 Drugbank: NA ATC: R03AK06
+Sitagliptin/Metformin as Metformin/Sitagliptin  -  Rx: 729717 Drugbank: NA ATC: A10BD07
+Sodium alginate/Potassium bicarbonate only Potassium bicarbonate  -  Rx: 34296 Drugbank: DB11098 ATC: NA
+Tamsulosin/Solifenacin only Tamsulosin  -  Rx: 77492 Drugbank: DB00706 ATC: G04CA02
+Telmisartan/Hydrochlorothiazide as Telmisartan-Hydrochlorothiazide  -  Rx: 284636 Drugbank: NA ATC: NA
+Tramadol/Paracetamol as Tramadol and Paracetamol  -  Rx: 352362 Drugbank: NA ATC: N02AJ13
+Valsartan/Hydrochlorothiazide as Hydrochlorothiazide/Valsartan  -  Rx: 214626 Drugbank: NA ATC: NA
+Vildagliptin/Metformin only Vildagliptin  -  Rx: 596554 Drugbank: DB04876 ATC: A10BH02
+
+Subtotal found 44
+
+Total found 766
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX Not Found XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Aluminium hydroxide/Magnesium hydroxide
+Calcipotriol/Betamethasone
+Calcium phosphate/Colecalciferol
+Dextran 70
+Dextran70/Hypromellose
+Diphenoxylate/Atropine sulphate
+Estrogen/Medroxyprogesterone
+Ferrous sulphate/Vitamin c
+Ipratropium/Salbutamol
+Mebeverine/Ispaghula husk
+Pertussis vaccine
+Sodium alginate/Potassium bicarbonate
+Sodium hydrogen carbonate
+Tamsulosin/Solifenacin
+Vildagliptin/Metformin
+
+Total NOT found 15

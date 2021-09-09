@@ -1,0 +1,736 @@
+FOUND DAILYMED INTERACTIONS
+---------------------------
+abacavir
+abiraterone
+acarbose
+acetazolamide
+acetic acid
+acetylcysteine
+acyclovir
+aclidinium
+activated charcoal
+adalimumab
+afatinib
+albendazole
+alclometasone
+alendronic acid
+alfuzosin
+trimeprazine
+aliskiren
+allopurinol
+alprazolam
+alteplase
+amikacin
+amiloride
+amlodipine
+amoxicillin
+amphetamine
+amphotericin B
+ampicillin
+anagrelide
+anastrozole
+apixaban
+apraclonidine
+aprepitant
+aripiprazole
+arsenic trioxide
+artemether
+artesunate
+ascorbic acid
+atenolol
+atezolizumab
+atomoxetine
+atorvastatin
+atracurium
+atropine
+azathioprine
+azilsartan
+azithromycin
+aztreonam
+baclofen
+barium sulfate
+beclomethasone
+bedaquiline
+bendamustine
+bendroflumethiazide
+penicillin G benzathine
+benznidazole
+benzyl benzoate
+penicillin G
+betamethasone
+betaxolol
+bevacizumab
+bicalutamide
+bisoprolol
+bleomycin
+bortezomib
+bosutinib
+brexpiprazole
+brinzolamide
+brivaracetam
+bromocriptine
+budesonide
+bumetanide
+buprenorphine
+cabergoline
+caffeine citrate
+leucovorin calcium
+candesartan
+capecitabine
+capreomycin
+capsaicin
+captopril
+carbamazepine
+carbocysteine
+carbomer
+carboplatin
+carboxymethylcellulose sodium
+carvedilol
+cefaclor
+cephalexin
+cefazolin
+cefepime
+cefixime
+cefotaxime
+ceftaroline
+ceftazidime
+ceftriaxone
+cefuroxime
+celecoxib
+certolizumab pegol
+chlordiazepoxide
+chlorhexidine
+chloroquine
+chlorpheniramine
+chlorpromazine
+cyclosporine
+cilostazol
+cimetidine
+ciprofloxacin
+cisplatin
+citalopram
+clarithromycin
+clindamycin
+clobazam
+clomiphene
+clomipramine
+clonazepam
+clonidine
+clopidogrel
+clotrimazole
+cloxacillin
+clozapine
+nonacog alfa
+colchicine
+cholestyramine resin
+colistimethate
+colistin
+vitamin B12
+cyclophosphamide
+cytarabine
+dabigatran
+dacarbazine
+dalteparin
+dapagliflozin
+dapsone
+daptomycin
+darbepoetin alfa
+darifenacin
+darunavir
+dasabuvir
+dasatinib
+daunorubicin
+deferoxamine
+delafloxacin
+denosumab
+desipramine
+desloratadine
+desmopressin
+dexamethasone
+dexlansoprazole
+dextran 40
+diazepam
+diazoxide
+diclofenac
+didanosine
+digoxin
+dihydrocodeine
+dimercaprol
+diphtheria toxoid vaccine, inactivated
+dipyridamole
+docetaxel
+docusate sodium
+domperidone
+dopamine
+doxazosin
+doxepin
+doxorubicin
+doxycycline
+dronabinol
+dronedarone
+dulaglutide
+duloxetine
+dutasteride
+edoxaban
+efavirenz
+eflornithine
+empagliflozin
+emtricitabine
+enoxaparin
+entecavir
+enzalutamide
+ephedrine
+epinephrine
+eplerenone
+epoetin alfa
+eprosartan
+eravacycline
+ergocalciferol
+erlotinib
+erythromycin
+escitalopram
+esomeprazole
+estradiol
+estriol
+etanercept
+ethambutol
+ethanol
+ethionamide
+ethosuximide
+etoposide
+ezetimibe
+febuxostat
+felodipine
+fenofibrate
+fentanyl
+fexofenadine
+filgrastim
+finasteride
+fingolimod
+flecainide
+fluconazole
+flucytosine
+fludarabine
+fludrocortisone
+fluorescein
+fluorouracil
+fluoxetine
+fluphenazine
+flurazepam
+flurbiprofen
+fluticasone
+fluvastatin
+fluvoxamine
+folic acid
+fomepizole
+fosfomycin
+furosemide
+gabapentin
+galantamine
+gatifloxacin
+gemcitabine
+gemfibrozil
+gentamicin
+glatiramer acetate
+glyburide
+glucose
+glutaral
+nitroglycerin
+glycopyrronium
+golimumab
+griseofulvin
+haloperidol
+heparin sodium, porcine
+hepatitis B surface antigen vaccine
+homatropine
+hydralazine
+hydrochlorothiazide
+hydrocodone
+hydrocortisone
+hydroxocobalamin
+hydroxychloroquine
+hydroxyurea
+ibandronic acid
+ibuprofen
+ifosfamide
+imatinib
+imipramine
+indinavir
+indomethacin
+infliximab
+insulin aspart, human
+insulin degludec
+insulin detemir
+insulin glargine
+insulin glulisine, human
+iohexol
+ipratropium bromide
+isoflurane
+isoniazid
+isosorbide dinitrate
+isosorbide mononitrate
+itraconazole
+ivermectin
+ketamine
+lactulose
+lamivudine
+lamotrigine
+latanoprost
+lenalidomide
+letrozole
+levetiracetam
+levobunolol
+levocetirizine
+levofloxacin
+levonorgestrel
+levothyroxine
+lidocaine
+linagliptin
+linezolid
+liraglutide
+lisinopril
+lithium carbonate
+loratadine
+lorazepam
+lovastatin
+medroxyprogesterone
+medroxyprogesterone
+medroxyprogesterone acetate
+mefenamic acid
+mefloquine
+meloxicam
+melphalan
+memantine
+mercaptopurine
+meropenem
+mesalamine
+mesna
+metformin
+methimazole
+methotrexate
+methoxy polyethylene glycol-epoetin beta
+methyldopa
+methylphenidate
+methylprednisolone
+methylene blue
+metoclopramide
+metronidazole
+miconazole
+midazolam
+miltefosine
+minocycline
+mirabegron
+mirtazapine
+misoprostol
+modafinil
+mometasone
+montelukast
+moxifloxacin
+mycophenolate mofetil
+naloxone
+naproxen
+naratriptan
+natamycin
+nelfinavir
+neostigmine
+nevirapine
+nicotine
+niacin
+nifedipine
+nifurtimox
+nilotinib
+nitrofurantoin
+nivolumab
+norethindrone
+nortriptyline
+nystatin
+ocrelizumab
+olanzapine
+olopatadine
+olsalazine
+omadacycline
+ondansetron
+oseltamivir
+oxaliplatin
+oxcarbazepine
+oxybutynin
+oxycodone
+aminosalicylic acid
+paclitaxel
+paroxetine
+pegaspargase
+pembrolizumab
+penicillamine
+pentamidine
+peppermint oil
+perindopril
+permethrin
+pertuzumab
+phenobarbital
+penicillin V
+phenytoin
+vitamin K1
+pilocarpine
+pimozide
+piroxicam
+pitolisant
+plazomicin
+podofilox
+podophyllin
+polygeline
+polyvinyl alcohol
+potassium chloride
+potassium iodide
+povidone-iodine
+pralidoxime
+pramipexole
+prasugrel
+pravastatin
+prednisolone
+pregabalin
+primaquine
+probenecid
+procainamide
+penicillin G procaine
+prochlorperazine
+proguanil
+promethazine
+propafenone
+propofol
+propylthiouracil
+alprostadil
+dinoprostone
+protamine sulfate (USP)
+pyridostigmine
+pyridoxine
+quetiapine
+quinapril
+quinidine
+quinine
+quinine sulfate
+rabeprazole
+rabies immune globulin, human
+raloxifene
+raltegravir
+ramipril
+ranibizumab
+ranitidine
+ranolazine
+rasagiline
+ribavirin
+rifampin
+rifapentine
+rifaximin
+risedronic acid
+risperidone
+ritonavir
+rituximab
+rivaroxaban
+ropinirole
+rosiglitazone
+rosuvastatin
+albuterol
+albuterol
+salicylic acid
+saquinavir
+saxagliptin
+selenium sulfide
+sertraline
+sildenafil
+silodosin
+silver sulfadiazine
+simvastatin
+siponimod
+sitagliptin
+sodium alginate
+edetate calcium disodium
+sodium chloride
+sodium fluoride
+sodium lactate
+sodium nitrite
+sodium nitroprusside
+sodium thiosulfate
+sodium valproate
+sofosbuvir
+solifenacin
+spironolactone
+stavudine
+succimer
+sulfacetamide
+sulfadiazine
+sulfasalazine
+sumatriptan
+succinylcholine
+tacrolimus
+tadalafil
+tafluprost
+tamoxifen
+tapentadol
+telmisartan
+tenofovir alafenamide
+tenofovir disoproxil fumarate
+terbinafine
+terbutaline
+testosterone
+tetrabenazine
+thalidomide
+tigecycline
+timolol
+tinzaparin
+thioguanine
+tiotropium
+tizanidine
+tobramycin
+tolbutamide
+tolterodine
+trandolapril
+tranexamic acid
+tranylcypromine
+trastuzumab
+ado-trastuzumab emtansine
+travoprost
+trazodone
+tretinoin
+triamcinolone
+triazolam
+trifluoperazine
+trihexyphenidyl
+trimethoprim
+trimipramine
+triptorelin
+tropicamide
+trospium
+trospium chloride
+ulipristal
+umeclidinium
+urea
+valacyclovir
+valganciclovir
+valproic acid
+valsartan
+vancomycin
+vardenafil
+varenicline
+varicella-zoster virus vaccine live (Oka-Merck) strain
+vecuronium
+venlafaxine
+verapamil
+vinblastine
+vincristine
+vinorelbine
+voriconazole
+vortioxetine
+warfarin
+xylometazoline
+zidovudine
+zoledronic acid
+zolmitriptan
+TOTAL FOUND : 525
+
+
+ATTRIBUTE ERROR (SCRAPING ISSUE)
+---------------------------
+aspirin
+diatrizoate
+aminophylline
+amiodarone
+amitriptyline
+asparaginase
+atazanavir
+benazepril
+benzoyl peroxide
+bupivacaine
+bupropion
+calcium
+calcium gluconate
+carbimazole
+chlorambucil
+chloramphenicol
+chlorine
+chloroxylenol
+coal tar
+cobalamins
+codeine
+cholecalciferol
+cholecalciferol
+colesevelam
+estrogens, conjugated (USP)
+crizotinib
+cycloserine
+dactinomycin
+dolutegravir
+donepezil
+enalapril
+ethyl ether
+exenatide
+famciclovir
+ferrous fumarate
+fesoterodine
+gefitinib
+glucosamine
+hydromorphone
+butylscopolamine bromide
+scopolamine hydrobromide
+idoxuridine
+insulin, regular, human
+iodine
+ipecac
+irinotecan
+isoproterenol
+kanamycin
+labetalol
+lansoprazole
+leuprolide
+levamisole
+levodopa
+lindane
+lithium
+loperamide
+losartan
+magnesium sulfate
+mannitol
+mebendazole
+methadone
+methionine
+metoprolol
+morphine
+mupirocin
+nebivolol
+niacinamide
+nitrous oxide
+ofloxacin
+olmesartan
+omega-3 fatty acids
+omeprazole
+orlistat
+pentoxifylline
+oxygen
+oxytocin
+pantoprazole
+acetaminophen
+paromomycin
+phosphate ion
+pioglitazone
+polymyxin B
+potassium permanganate
+praziquantel
+procarbazine
+propranolol
+pyrantel
+pyrazinamide
+pyrimethamine
+vitamin A
+riboflavin
+rifabutin
+sennosides, USP
+silver nitrate
+vaccinia virus strain New York City Board of Health live antigen
+cromolyn sodium
+sodium hyaluronate
+somatropin
+sotalol
+spectinomycin
+streptomycin
+tetracaine
+tetracycline
+theophylline
+thiamine
+tramadol
+triclabendazole
+tubocurarine
+ursodiol
+zinc sulfate
+zolpidem
+TOTAL FOUND : 111
+
+
+MISSING SPL ID
+---------------------------
+acenocoumarol
+aclidinium / formoterol
+alcuronium
+alfacalcidol
+alverine citrate
+amiloride / hydrochlorothiazide
+amlodipine / telmisartan
+amlodipine / valsartan
+amodiaquine
+amorolfine
+Rho(D) immune globulin
+atenolol / chlorthalidone
+atovaquone / proguanil
+azelastine / fluticasone
+bendroflumethiazide / potassium chloride
+biperiden
+bromazepam
+budesonide / formoterol
+C1 esterase inhibitor
+calamine
+candesartan / hydrochlorothiazide
+captopril / hydrochlorothiazide
+celiprolol
+cilazapril
+cinnarizine
+clobetasone
+clofazimine
+factor VIII
+cyclizine
+cyproterone
+daclatasvir
+diclofenac / misoprostol
+diethylcarbamazine
+digitoxin
+dihydroergocryptine mesylate
+diloxanide
+diphtheria antitoxin
+dorzolamide / timolol
+dothiepin
+dutasteride / tamsulosin
+enalapril / hydrochlorothiazide
+epoetin beta
+eprosartan / hydrochlorothiazide
+ergonovine
+etofenamate
+etoricoxib
+ezetimibe / simvastatin
+floxacillin
+fluticasone / vilanterol
+fosphenytoin
+gallamine
+gliclazide
+glucagon (rDNA)
+halothane
+indacaterol
+lercanidipine
+lormetazepam
+lornoxicam
+lymecycline
+mebeverine
+meglumine antimoniate
+nadroparin
+nafronyloxalate
+nalidixic acid
+nefopam
+niclosamide
+nicorandil
+norethindrone enanthate
+oxamniquine
+pancreatin
+phenprocoumon
+prazepam
+propiverine
+simeprevir
+sodium stibogluconate
+streptokinase
+sulfamethoxazole / trimethoprim
+tenoxicam
+tetanus immune globulin
+tibolone
+tiotropium bromide
+trimetazidine
+tuberculin
+umeclidinium / vilanterol
+zofenopril
+zopiclone
+zuclopenthixol
+TOTAL FOUND : 87
