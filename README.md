@@ -10,25 +10,25 @@
 - clean drug names
 
 #### <a href="https://github.com/bjmcnamee/Compass_ETL/blob/main/ETL/code/1__GetAPI_NLM_Codes.py">1__GetAPI_NLM_Codes.py</a>
-- API fetch various catalogue codes : ATC, DRUGBANK, RxCUI, SPL_SET_ID
-- from National Library of Medicine <a href="https://mor.nlm.nih.gov/RxNav/">RxNav app</a>
-- lib requests
+- fetch catalogue codes for each drug : ATC, DRUGBANK, RxCUI, SPL_SET_ID
+- from National Library of Medicine (NLM) <a href="https://mor.nlm.nih.gov/RxNav/">RxNav app</a> API
+- lib : requests
 
 #### <a href="https://github.com/bjmcnamee/Compass_ETL/blob/main/ETL/code/2__GetSPLs_FuzzyMatch.py">2__GetSPLs_FuzzyMatch.py</a>
-- API fetch all SPL_SET_ID for each drug
+- fetch all SPL_SET_ID for each drug from NLM API
 - scrape/parse drug title for each SPL_SET_ID from <a href="https://dailymed.nlm.nih.gov/dailymed/">DailyMed website</a> 
 - find best match using fuzzy match
-- lib requests, Levenshtein, BeautifulSoup
+- lib : requests, Levenshtein, BeautifulSoup
 
 #### <a href="https://github.com/bjmcnamee/Compass_ETL/blob/main/ETL/code/3__ScrapeDailyMeds.py">3__ScrapeDailyMeds.py</a>
 - scrape/parse drug profile from <a href="https://dailymed.nlm.nih.gov/dailymed/">DailyMed website</a> for each drug
-- lib urllib.request, BeautifulSoup
+- lib : urllib.request, BeautifulSoup
 
 #### <a href="https://github.com/bjmcnamee/Compass_ETL/blob/main/ETL/code/4__ScrapeDrugbank.py">4__ScrapeDrugbank.py</a>
 - scrape/parse drug profile from <a href="https://go.drugbank.com/drugs">Drugbank website</a> for each drug
-- lib cfscrape and BeautifulSoup
+- lib : cfscrape and BeautifulSoup
 
 #### <a href="https://github.com/bjmcnamee/Compass_ETL/blob/main/ETL/code/5__GetAPI_NLM_Interaction.py">5__GetAPI_NLM_Interaction.py</a>
-- API fetch all drug-drug interactions for each drug 
-- from National Library of Medicine <a href="https://mor.nlm.nih.gov/RxNav/">RxNav app</a>
-- lib requests
+- fetch all drug-drug interactions for each drug 
+- from National Library of Medicine <a href="https://mor.nlm.nih.gov/RxNav/">RxNav app</a> API
+- lib : requests
